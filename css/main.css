@@ -3666,8 +3666,14 @@ display: flex;
   }
 }
 
-.no-transition {
-    transition: none !important;
+.fixed-color {
+    color: #CF1767 !important;
+}
+
+.fixed-color:hover,
+.fixed-color:active,
+.fixed-color:focus {
+    color: #CF1767 !important;
 }
 
 
