@@ -3667,13 +3667,13 @@ display: flex;
 }
 
 .fixed-color, .fixed-color:visited {
-    color: black !important;
+    color:#CF1767 !important;
 }
 
 .fixed-color:hover,
 .fixed-color:active,
 .fixed-color:focus {
-    color: black !important;
+    color:#CF1767 !important;
 }
 
 
