@@ -3666,6 +3666,10 @@ display: flex;
   }
 }
 
+.no-transition {
+    transition: none !important;
+}
+
 
 /* ===================================================================
  * # IE10/IE11 Specific
