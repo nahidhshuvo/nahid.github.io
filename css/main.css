@@ -1927,7 +1927,7 @@ input::-moz-focus-inner {
   background-color: #00000;
   background-repeat: no-repeat;
   background-position: top center;
-  background-image: url(../images/hero-pic.png);
+  /*background-image: url(../images/hero-pic.png);*/
   background-size: cover;
   position: absolute;
   top: 10%;
